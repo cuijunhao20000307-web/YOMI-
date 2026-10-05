@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.4.0",
+    "channel": "stable",
+    "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.4.0/YOMI-0.4.0.nro",
+    "download_url_cn": "",
+    "download_url_backup": "",
+    "notes": "0.4.0 stable"
+  },
+  {
     "version": "0.3.9",
     "channel": "stable",
     "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.3.9/YOMI-0.3.9.nro",
