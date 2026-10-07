@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.4.2-beta.22",
+    "channel": "beta",
+    "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.4.2-beta.22/YOMI-0.4.2-beta.22.nro",
+    "download_url_cn": "",
+    "download_url_backup": "",
+    "notes": "Beta test build"
+  },
+  {
     "version": "0.4.2-beta.21",
     "channel": "beta",
     "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.4.2-beta.21/YOMI-0.4.2-beta.21.nro",
