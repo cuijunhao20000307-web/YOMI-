@@ -1,5 +1,13 @@
 [
   {
+    "version": "0.4.3",
+    "channel": "stable",
+    "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.4.3/YOMI-0.4.3.nro",
+    "download_url_cn": "",
+    "download_url_backup": "",
+    "notes": "0.4.3 Stable 正式版：从 Beta 25 升级正式版"
+  },
+  {
     "version": "0.4.3-beta.25",
     "channel": "beta",
     "download_url": "https://github.com/cuijunhao20000307-web/YOMI-/releases/download/0.4.3-beta.25/YOMI-0.4.3-beta.25.nro",
